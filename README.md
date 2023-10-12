@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathvikreddy
-- 👀 I’m interested in ...Webdevelopment 
+- 👀 I’m interested in ...Web development 
 - 🌱 I’m currently learning ...java and python
 - 💞️ I’m looking for someone to help me in java basics
 - 📫 How to reach me ...ping me over whats app 6302642967
